@@ -13,7 +13,7 @@ The Cafe Menu Ordering System is designed to simulate a basic cafe ordering proc
 **Order Total Calculation:** Automatically calculates and displays the total bill after ordering.
 
 # 📂 Project Structure
-CaffeMenu.py: The main script that handles menu definition, order input, and order processing logic.
+Cafe_Menu.py: The main script that handles menu definition, order input, and order processing logic.
 
 # 🛠️ Tools & Technologies
 **Python:** The entire project is built using Python, focusing on dictionaries, conditional statements, and basic input/output operations.
